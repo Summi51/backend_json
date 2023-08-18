@@ -442,5 +442,168 @@
       "img1": "https://craftylikegranny.com/wp-content/uploads/2018/09/Mod-Podge-Rocks.jpg",
       "blog": "Mod Podge is a versatile material. The best thing is it doesn’t make to much mess when used by enthusiastic kids. Her craft ideas are perfect for younger ones, bright, colorful and fun."
     }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "img": "https://i.etsystatic.com/20928740/r/il/1eca12/3945621807/il_570xN.3945621807_jevw.jpg",
+      "desc": "A Rich Tapestry of Cultural Heritage:",
+      "price": 145,
+      "rating": 4.5,
+      "category":"art"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ytimg.com/vi/3bySyzxcpe4/maxresdefault.jpg",
+      "desc": "The Renaissance of Handmade Crafts:",
+      "price": 545,
+      "rating": 3.5,
+      "category":"craft"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyBzGok7jfk9lyZskESnD-eZYSMwfCpQFOYmb0NsLtAZ5WgcW0PNZT-TxKDXadBq6j7U&usqp=CAU",
+      "desc": "Art Therapy: Healing through Creativity:",
+      "price": 235,
+      "rating": 2.5,
+      "category":"art"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8coNLeE-RicsjpMuA0UMo9zkbS2zWGYOIW4GMfGVwauXdAAsqdeK0kN8O8xrgsGdTkNE&usqp=CAU",
+      "desc": "Contemporary Art Movements: A Canvas of Ideas:",
+      "price": 135,
+      "rating": 2.5,
+      "category":"art"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ytimg.com/vi/0jDCK_RHQuI/maxresdefault.jpg",
+      "desc": "DIY Crafts: Embracing Creativity at Home:",
+      "price": 235,
+      "rating": 3.5,
+      "category":"craft"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ytimg.com/vi/xJPuXKxuN0c/maxresdefault.jpg",
+      "desc": "Preserving Traditional Crafts in a Modern World:",
+      "price": 435,
+      "rating": 4.5,
+      "category":"craft"
+    },
+    {
+      "id": 7,
+      "img": "https://m.media-amazon.com/images/I/81hP-L9rvGL.jpg",
+      "desc": "Art and Craft in Education: Nurturing Young Minds:",
+      "price": 465,
+      "rating": 4.5,
+      "category":"art"
+    },
+    {
+      "id": 8,
+      "img": "https://jolinne.com/cdn/shop/products/51N_XaOyEdL_600x.jpg?v=1639983282",
+      "desc": "The Origins of Origami: Unfolding Centuries of History",
+      "price": 1235,
+      "rating": 2.5,
+      "category":"craft"
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9S17sb4igGi135sal0Td6PEI2esFpkeV_xw&usqp=CAU",
+      "desc": "The Beauty of Simplicity: Mehndi Art",
+      "price": 355,
+      "rating": 3.5,
+      "category":"art"
+    },
+    {
+      "id": 10,
+      "img": "https://www.google.com/aclk?sa=l&ai=DChcSEwjK75r6neWAAxXHRX0KHR_tDSYYABADGgJzZg&ase=2&gclid=CjwKCAjwivemBhBhEiwAJxNWN0ZQ7WFA2aUBjnbPnOeaNvm4CCQMNQHohnL_cKXzwKtgqExp6NEmIRoCbkoQAvD_BwE&sig=AOD64_0YwUGFiOaHe0cE8fSIZfxjyc3ruQ&ctype=5&nis=5&adurl&ved=2ahUKEwiC1I76neWAAxVMz6ACHb0jBkEQvhd6BAgBEF8",
+      "desc": "Beyond Tradition: Modern Origami Craftistry: Paper Cards",
+      "price": 656,
+      "rating": 2.5,
+      "category":"craft"
+    },
+    {
+      "id": 11,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZgz__5h6dmNqcFNiDhEcYsRs3Ggov8xEkg&usqp=CAU",
+      "desc": "Origami as Mindfulness: Folding Your Way to Serenity:",
+      "price": 135,
+      "rating": 2.5,
+      "category":"art"
+    },
+    {
+      "id": 12,
+      "img": "https://chaoticallyyours.com/wp-content/uploads/2021/05/Explosion-Card-5.jpg.webp",
+      "desc": "Mathematical Marvels: The Geometry of Origami:",
+      "price": 789,
+      "rating": 3.5,
+      "category":"craft"
+    },
+    {
+      "id": 13,
+      "img": "https://i.ytimg.com/vi/Jg-ZSi32vOQ/mqdefault.jpg",
+      "desc": "Origami in Space: Unfolding the Possibilities:",
+      "price": 365,
+      "rating": 4.5,
+      "category":"craft"
+    },
+    {
+      "id": 14,
+      "img": "https://twistedsifter.com/wp-content/uploads/2013/05/breaking-bad-coffee-cup-art-black-marker-cheeming-boey.jpg",
+      "desc": "Environmental Impact: The Sustainability of Cup Art:",
+      "price": 475,
+      "rating": 3.5,
+      "category":"art"
+    },
+    {
+      "id": 15,
+      "img": "https://www.incrediblegifts.in/wp-content/uploads/2021/10/Anniversary16x12.jpg",
+      "desc": "Origami Legends: Remembering Masters of the Craft: Photoframe",
+      "price": 565,
+      "rating": 2.5,
+      "category":"craft"
+    },
+    {
+      "id": 16,
+      "img": "https://i.pinimg.com/originals/8e/cf/fd/8ecffdf9882e59ba8e2481f6abad017c.jpg",
+      "desc": "Cultural Fusion: The Global Reach of Origami: Clay Art",
+      "price": 895,
+      "rating": 3.5,
+      "category":"art"
+    },
+    {
+      "id": 17,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2FjrQZeRP7Gc2kxSrINECeP6ilZ6kaqOVKscyBQQK4g-D22b5kryf1aat69ipBN_ruBU&usqp=CAU",
+      "desc": "Beyond Paper: Exploring Unconventional Origami Materials:",
+      "price": 567,
+      "rating": 2.5,
+      "category":"craft"
+    },
+    {
+      "id": 18,
+      "img": "https://m.media-amazon.com/images/I/71hjL-i3s7L.jpg",
+      "desc": "Folding the Future: The Endless Possibilities of Origami:",
+      "price": 235,
+      "rating": 3.5,
+      "category":"craft"
+    },
+    {
+      "id": 19,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WUYQMTtrXqTxh7JqJGfzJhWhVqiGEO-xIwSJJoUISV0WzI7bDvGZLa6hKfqBuZsxmT4&usqp=CAU",
+      "desc": "Origami as Community: Fostering Connections through Art: Sand",
+      "price": 876,
+      "rating": 4.5,
+      "category":"art"
+    },
+    {
+      "id": 20,
+      "img": "https://i.etsystatic.com/30289423/r/il/3afa96/4480345223/il_570xN.4480345223_f2tz.jpg",
+      "desc": "Origami and Storytelling: Folding Tales of Myth and Fantasy: Slime",
+      "price": 945,
+      "rating": 4.5,
+      "category":"craft"
+    }
   ]
 }
